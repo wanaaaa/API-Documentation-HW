@@ -21,6 +21,7 @@ Review the [Instagram API documentation](https://www.instagram.com/developer/) a
 
 
 **Questions:**
+
 1. What URL would use for an API call to retrieve photos recently posted near latitude 40.7128, longitude -74.0059?
 
 1. Click the "RESPONSE" button in the documentation to see a sample response for that API call. What key/value pairs would you need to use to find the number of "likes" a photo received? How many nested JSON objects would you need to traverse to find this information?  _(You don't need to write any code for this, just take a look at the structure of the JSON response and give a very quick description)_
